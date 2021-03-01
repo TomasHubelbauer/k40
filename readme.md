@@ -56,3 +56,18 @@ while the laser operates.
 
 Never run the laser cutter without the water pump connected and fully submerged in distilled water as
 it could significantly shorten the lifespan of the laser tube.
+
+## Cutting CCL
+
+I'm not sure whether the K40 could handle cutting CCL, but there exist research which seems to look
+into laser cutting CCL which might be interesting to read:
+
+https://link.springer.com/article/10.1007/BF02395722
+
+- [ ] Get this on Scihub
+
+Cutting and engraving CCL could be interesting if figured out how to do safely both towards the K40
+(mirror and laser tube damage) and the operator (reflection increasing risk of eye damage). It could
+be used to engrave PCBs and even bore vias (although not plated). Theoretically, an entire PDB could
+be manufactured using the K40 alone with no other processing steps such as masking, washing, etching,
+drilling or milling.
